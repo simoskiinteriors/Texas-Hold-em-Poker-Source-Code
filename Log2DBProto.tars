@@ -1,0 +1,60 @@
+///
+///日志入库服务结构描述文件
+///
+
+module DaqiGame
+{
+	const short LOG_2_DB = 100;  //日志入库
+	const short QUERY_DB = 101;  //查数据库
+
+	//入库错误码
+	enum Eum_Log_2_DB_Err
+	{
+		E_LOG2DB_SUCC = 0,   	//成功
+		E_LOG2DB_FAIL = -1,    	//失败
+	};
+
+	//日志类型
+	enum Eum_Log_Type
+	{
+		E_LOG_TYPE_USER_CHANGE_LOG = 1,         //user_change_log
+		E_LOG_TYPE_COUNT,
+	};
+	
+	//入库请求消息
+	struct TLog2DBMsg
+	{
+		0 require short sMsgID;			//消息ID
+		1 require short sMsgType;		//消息类型
+		2 require vector<byte> vecData;  //请求数据
+	};
+
+	//日志入库请求
+	struct TLog2DBReq
+	{
+		0 require short sLogType; //日志类型
+		1 require vector<vector<string>> vecLogData; //日志数据
+	};
+
+	//日志入库应答
+	struct TLog2DBRsp
+	{
+		0 require int iResult;  //错误码
+	};
+
+	//日志查询请求
+	struct TQueryDBReq
+	{
+		0 require short sLogType;  //日志类型
+		1 require string szCondition;  //查询条件
+	};
+
+	//日志查询应答
+	struct TQueryDBRsp
+	{
+		0 require int iResult; //错误码
+		1 require vector<vector<string>> vecData;  //查询到的数据
+	};
+};
+
+

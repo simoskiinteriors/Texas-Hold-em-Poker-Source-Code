@@ -1,0 +1,29 @@
+#include "Log2DBProto.tars"
+
+module DaqiGame
+{
+	interface Log2DBServant
+	{
+		/*
+		* 处理请求接口
+		* @param [in] reqBuf: 协议请求包(JCE编码)
+		* @param [in] extraInfo: 额外参数
+		* @param [out] rspBuf: 协议响应包(JCE编码)
+		* @return 0 - 成功, 其它异常
+		*/
+		int doRequest(vector<byte> reqBuf, map<string, string> extraInfo, out vector<byte> rspBuf);
+		
+		//加载配置
+		// int reloadConfig(string cmd, out string des);
+
+		//日志入库
+		int log(int id, string buffer);
+
+		//日志入库
+		int log2db(TLog2DBReq tLog2DBReq, out TLog2DBRsp tLog2DBRsp);
+
+		//日志查询
+		int query_db(TQueryDBReq tQueryDBReq, out TQueryDBRsp tQueryDBRsp);
+	};
+}; 
+
